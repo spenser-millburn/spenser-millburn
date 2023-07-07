@@ -5,7 +5,7 @@
 
 I am a full-stack software/hardware engineer. I love programming, electromechanical systems, writing and traveling.
 
-*As a software engineer, I want to make things that make a difference and change the world, so I can contribute to a brighter future with my code.*
+*As a software engineer, I like to make things that make a difference and change the world, so I can contribute to a brighter future with my code.*
 
 
 <br/>
