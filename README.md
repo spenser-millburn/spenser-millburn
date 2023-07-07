@@ -8,7 +8,6 @@ I am a full-stack software/hardware engineer. I love programming, electromechani
 *As a software engineer, I like to make things that make a difference and change the world, so I can contribute to a brighter future with my code.*
 
 
-<br/>
 
 ## Stuff I've Worked on:
  • 🤖 Robots                                                                                                                                                                                                                                                                  
